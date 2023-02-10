@@ -25,13 +25,13 @@
 
 - **플레이 방법**
 
-<img width="600" alt="스크린샷 2023-01-14 오후 3 20 46" src="https://user-images.githubusercontent.com/107898063/212459052-19a8373a-f595-4e9d-9ce2-60d8cc939fa8.png">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/107898063/212459052-19a8373a-f595-4e9d-9ce2-60d8cc939fa8.png">
 <br/>
 <br/>
 
 - **달리기**
 
-<img width="600" alt="스크린샷 2023-01-14 오후 3 21 09" src="https://user-images.githubusercontent.com/107897886/217739986-8aefe891-72bd-4b14-b80b-80afbb881457.gif">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/107897886/217739986-8aefe891-72bd-4b14-b80b-80afbb881457.gif">
 <br/>
 
 ```javascript
@@ -76,7 +76,7 @@ let imglinkRun = [
 
 - **점프와 더블 점프**
 
-<img width="600" alt="스크린샷 2023-01-14 오후 3 21 09" src="https://user-images.githubusercontent.com/107897886/217746462-28f4eaaf-d8d6-4bf0-9815-de42ca0a9888.gif">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/107897886/217746462-28f4eaaf-d8d6-4bf0-9815-de42ca0a9888.gif">
 
 ```javascript
 function jumpSkill() {
@@ -128,7 +128,7 @@ function jumpSkill() {
 
 - **충돌**
 
-<img width="600" alt="스크린샷 2023-01-14 오후 3 21 09" src="https://user-images.githubusercontent.com/107897886/217748533-5619aaa5-9b77-488e-b434-b81f8248824a.gif">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/107897886/217748533-5619aaa5-9b77-488e-b434-b81f8248824a.gif">
 
 ```javascript
 function TopHurdle() {
